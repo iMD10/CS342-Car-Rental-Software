@@ -1,1 +1,1 @@
-# CS342-Visual-Programming
+# CS342-Car-Rental
